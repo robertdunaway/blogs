@@ -109,3 +109,9 @@ Be an opinionated thought leader.  We can never know it all and if we try to kno
 So be a though leader and come to some conclusions.  When more information is available change those conclusions.  Don't keep it a secret out of fear someone might think you are wrong.  Share it and have a bit of confidence.
 
 If you aren't making mistakes then you aren't doing anything.
+
+###Feedback Welcome
+
+Being opinionated means I will sometimes be wrong but I've given myself the opportunity to get a few things right.  I'm bothered by my "handyman" metaphor because it doesn't give credit deserved to the everyday coder.  I might completely change that.
+
+If you have feedback I'm open to learning.  You can leave a comment or just email me.  I'm not looking to build some large readership and boost my ego.  I simply want to be better tomorrow than I am today.  Thank you.  Bob
