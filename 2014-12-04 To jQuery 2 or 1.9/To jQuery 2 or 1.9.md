@@ -1,3 +1,14 @@
+---
+
+title: jQuery 2.x or jQuery 1.x ??
+tags: 
+- jQuery
+- Continuous Improvement
+- IE8
+- Greenfield
+
+---
+
 #jQuery 2.x or jQuery 1.x ??
 
 
