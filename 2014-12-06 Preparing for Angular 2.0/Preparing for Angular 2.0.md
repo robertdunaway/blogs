@@ -1,34 +1,81 @@
-Ease the Transition to Angular 2.0
-Significant changes are coming to Angular 2.0.  Since the http://ngeurope.org/ Iíve considered how to position my angular applications for Angular 2.0.
-The changes coming are being driven in large part to ES6.  Eventually all frameworks will need to make this transition.  Angular is stepping up and getting it done now.  So letís just suck it up and get-er-done.
-Go ahead and book mark this blog post.  Whenever I learn of a change that positions our applications for Angular 2.0 Iíll update this post.  This will be a single place to go for all changes making the transition as easy as possible.
-Letís jump right inÖ
-Learn ES6
-Soon Iíll post links here to many tutorials, utilities, and advice on making this transition.
-Use the Controller As syntax
+---
+
+title: Ease the Transition to Angular 2.0
+tags:
+- Angular
+- Angular 2.0
+- Migration
+- ES6
+- Controller As
+- Lazy Loading
+- SoC
+- Separation of Concerns
+- ng-router
+- Rob Eisenberg
+- Durandal
+- Adventures in Angular
+- ocLazyLoad
+- ng-europe
+- ngeurope
+
+---
+
+#Ease the Transition to Angular 2.0
+Significant changes are coming to Angular 2.0.  Since the http://ngeurope.org/ I‚Äôve considered how to position my angular applications for Angular 2.0.
+
+The changes coming are being driven in large part to ES6.  Eventually all frameworks will need to make this transition.  Angular is stepping up and getting it done now.  So let‚Äôs just suck it up and get-er-done.
+
+Go ahead and book mark this blog post.  Whenever I learn of a change that positions our applications for Angular 2.0 I‚Äôll update this post.  This will be a single place to go for all changes making the transition as easy as possible.
+
+Let‚Äôs jump right in‚Ä¶
+
+##Learn ES6
+
+Soon I‚Äôll post links here to many tutorials, utilities, and advice on making this transition.
+
+##Use the Controller As syntax
+
 With the release of Angular 1.3 the Controller As syntax was introduced.
+
 This helps reduce dependence on $scope and positions our controllers to more easily become ES6 classes when we transition to Angular 2.0.
-Use the new ng-router
-Rob Eisenberg, the author of Durandal, is championing a new more advanced router for Angular.  His experience with Durandal and a general survey of the features available in all of todayís popular routers has driven the requirements for the new router.
-The ng-router is an Angular 2.0 feature but is being back ported to 1.3.  Early adoption of this new router mean youíll have one less thing to deal with when Angular 2.0 comes out.
-Besides, itís got a few freaking cool features in it.  Check out this video.  Its 2 months old which, in our new world, means itís ancient and outdated but still a great starting point.  Iíll post more tutorials as I learn how to use it.
+
+##Use the new ng-router
+
+Rob Eisenberg, the author of Durandal, is championing a new more advanced router for Angular.  His experience with Durandal and a general survey of the features available in all of today‚Äôs popular routers has driven the requirements for the new router.
+
+The ng-router is an Angular 2.0 feature but is being back ported to 1.3.  Early adoption of this new router mean you‚Äôll have one less thing to deal with when Angular 2.0 comes out.
+
+Besides, it‚Äôs got a few freaking cool features in it.  Check out this video.  Its 2 months old which, in our new world, means it‚Äôs ancient and outdated but still a great starting point.  I‚Äôll post more tutorials as I learn how to use it.
+
 https://www.youtube.com/watch?v=h1P_Vh4gSQY
+
 https://www.npmjs.org/package/angular-new-router
 
-Use Services where ever possible
+##Use Services where ever possible
+
 The more code we can move out of controllers and into services the easier the transition to Angular 2.0 will be.
-Full disclosure, I heard this advice on ìAdventures in Angularî podcast and while I get ìseparation of concernsî I donít know how it helps with Angular 2.0.  Iíll figure this out and update my notes here.
-Lazy Loading
+
+Full disclosure, I heard this advice on ‚ÄúAdventures in Angular‚Äù podcast and while I get ‚Äúseparation of concerns‚Äù I don‚Äôt know how it helps with Angular 2.0.  I‚Äôll figure this out and update my notes here.
+
+##Lazy Loading
 Lazy (eager) loading of modules is planned for Angular 2.0.
-For now Iíve prepared by implementing lazy loading with ocLazyLoad.
-I mention it in this router post but Iíll provide a specific post about lazy loading.
+For now I‚Äôve prepared by implementing lazy loading with ocLazyLoad.
+
+I mention it in this router post but I‚Äôll provide a specific post about lazy loading.
+
 http://robertdunawaypro.blogspot.com/2014/10/routeconfig.html
-Drop In Application Design
-I have no idea what to call this so I completely made up that name.  The idea is this.  With the new angular router youíll have the ability to modularize your application such that you can drop modules into an application from another application and this is supposed to work.
-http://Mashupjs.githut.io  has an implementation like this.  Iíll upgrade it to use the features of the new angular router as soon as I can.
-In Closing
-Iím just like everyone else.  Iím figuring this stuff out as I go.  If you come across something you think might be helpful then post a comment and Iíll add it to this list.
-ThanksÖ
+
+##Drop In Application Design
+
+I have no idea what to call this so I completely made up that name.  The idea is this.  With the new angular router you‚Äôll have the ability to modularize your application such that you can drop modules into an application from another application and this is supposed to work.
+
+http://Mashupjs.githut.io  has an implementation like this.  I‚Äôll upgrade it to use the features of the new angular router as soon as I can.
+
+##In Closing
+
+I‚Äôm just like everyone else.  I‚Äôm figuring this stuff out as I go.  If you come across something you think might be helpful then post a comment and I‚Äôll add it to this list.
+
+Thanks‚Ä¶
 
 
 
