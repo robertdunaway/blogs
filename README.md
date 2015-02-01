@@ -21,3 +21,16 @@ Create and post a YouTube video on some technology
 
 Promote Others
 Find some work of someone else and promote it via blog or twitter or encouraging comments
+
+
+
+YAML Example:
+
+---
+title: Title of the blog
+tags: 
+- .NET
+- Angular
+- Architect
+- Architecture 
+---
