@@ -40,3 +40,21 @@ tags:
 
      - These aren’t free images.  The image we are going to select requires an MSDN license.
 
+ 5. In the “Search Everything” dialog type “Visual Studio”.
+
+  ![enter image description here](https://github.com/robertdunaway/blogs/blob/master/2015-04%20Create%20Azure%20Dev%20Machine/3.png?raw=true)
+
+ 6. Select “Visual Studio Ultimate 2015”.
+
+ - A window will open to the right describing the selected option.
+
+ 7. Select “Create”.
+ 8. You’ll be asked for the machine name and a UserID and password
+
+ - Don’t forget your user ID and password.
+
+ 9. Press Create.
+
+
+
+
