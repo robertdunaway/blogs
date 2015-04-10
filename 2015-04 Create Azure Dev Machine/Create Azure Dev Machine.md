@@ -27,7 +27,7 @@ tags:
 
  2. Select the “New” button in the bottom left.
 
-        ![enter image description here](https://github.com/robertdunaway/blogs/blob/master/2015-04%20Create%20Azure%20Dev%20Machine/1.png?raw=true)
+  ![enter image description here](https://github.com/robertdunaway/blogs/blob/master/2015-04%20Create%20Azure%20Dev%20Machine/1.png?raw=true)
 
  3. Select "Computer"
 
