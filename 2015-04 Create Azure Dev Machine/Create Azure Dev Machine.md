@@ -46,12 +46,12 @@ tags:
 
  6. Select “Visual Studio Ultimate 2015”.
 
- - A window will open to the right describing the selected option.
+     - A window will open to the right describing the selected option.
 
  7. Select “Create”.
  8. You’ll be asked for the machine name and a UserID and password
 
- - Don’t forget your user ID and password.
+     - Don’t forget your user ID and password.
 
  9. Press Create.
 
