@@ -59,6 +59,10 @@ tags:
 
   ![enter image description here](https://github.com/robertdunaway/blogs/blob/master/2015-04%20Create%20Azure%20Dev%20Machine/5.png?raw=true)
 
+> Note: the new Virtual Machine is started.  I stop mine immediately when I'm done because Azure charges for usage by the minute.
+> 
+> Consider writing a PowerShell script to shut down all your development and test VMs when they are not in use.  Maybe schedule the script to run at 5:30 or whenever your day ends.
+
 
 ####Additional Resources
 If you got this far you might as well check these videos out and see what else is possible.
