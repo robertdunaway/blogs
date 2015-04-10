@@ -36,3 +36,7 @@ tags:
 
  4. Select “Azure Marketplace” at the bottom.
 
+  ![enter image description here](https://github.com/robertdunaway/blogs/blob/master/2015-04%20Create%20Azure%20Dev%20Machine/2.png?raw=true)
+
+     - These aren’t free images.  The image we are going to select requires an MSDN license.
+
