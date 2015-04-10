@@ -5,7 +5,8 @@ tags:
 - Azure
 - Virtual Machine
 - Azure Marketplace
-- 
+- portal.azure.com
+- New Azure Portal
 
 ---
 
