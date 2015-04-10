@@ -59,17 +59,17 @@ tags:
 
   ![enter image description here](https://github.com/robertdunaway/blogs/blob/master/2015-04%20Create%20Azure%20Dev%20Machine/5.png?raw=true)
 
-###Additional Resources
+####Additional Resources
 If you got this far you might as well check these videos out and see what else is possible.
 
-####Windows Azure Pack Infrastructure as a Service, Service Management Automation
+#####Windows Azure Pack Infrastructure as a Service, Service Management Automation
 https://www.youtube.com/watch?v=NL11EtTZrhk\
 
-####The World’s Greatest Azure Demo (PaaS) (spends time talking about Azure from a developer’s perspective)
+#####The World’s Greatest Azure Demo (PaaS) (spends time talking about Azure from a developer’s perspective)
 https://www.youtube.com/watch?v=7V8HikBP1vQ
 
-####Modern Web Development Tools in Visual Studio 2015
+#####Modern Web Development Tools in Visual Studio 2015
 https://www.youtube.com/watch?v=YFg-SbgITdY
 
-####Explore Visual Studio Online
+#####Explore Visual Studio Online
 https://www.youtube.com/watch?v=MNrXvv21_jE
