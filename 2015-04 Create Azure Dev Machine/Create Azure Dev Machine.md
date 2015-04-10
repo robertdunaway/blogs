@@ -31,6 +31,8 @@ tags:
 
  3. Select "Computer"
 
+     - You’ll see several options from “Windows Server 2012 R2” to “Cloud Service”.
+     - These options are available to all Azure users.
 
 
 
